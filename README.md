@@ -16,5 +16,5 @@ The dataset of Global 500-m Foliage Clumping Index Data Derived from MODIS BRDF 
 Python 2.7 or greater. Python package: `OWSLib`, `basemap`, `matplotlib`
 
 ## Procedure
-Access the the tutorial here:  
+Access the tutorial here:  
 [Tutorial](sdat_python_v1.ipynb)
