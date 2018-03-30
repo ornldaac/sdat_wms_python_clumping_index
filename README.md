@@ -1,5 +1,5 @@
 # Tutorial: Access ORNL DAAC WMS Service using Python
-*Author: Angie Wei, Yaxing Wei*
+*Author: ORNL DAAC*
 <br>
 *Date: March 9, 2018*
 <br>
@@ -15,3 +15,6 @@ The dataset of Global 500-m Foliage Clumping Index Data Derived from MODIS BRDF 
 ## Prerequisites:
 Python 2.7 or greater. Python package: `OWSLib`, `basemap`, `matplotlib`
 
+## Procedure
+Access the the tutorial here:  
+[Tutorial](sdat_python_v1.ipynb)
